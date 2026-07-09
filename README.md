@@ -1,7 +1,7 @@
 # Streesing
 URL Mode - Local Server Stress Testing Tool
 
-Alat pengujian beban (*stress testing*) sederhana berbasis Python murni (*pure Python*) yang menggunakan metode *multi-threading* untuk mensimulasikan lalu lintas paket HTTP/HTTPS massal ke server target. Proyek ini dibuat murni untuk keperluan edukasi dan analisis performa server lokal.
+Alat pengujian beban (*stress testing*) sederhana berbasis Python murni (*pure Python*) yang menggunakan metode *multi-threading* untuk mensimulasikan lalu lintas paket HTTP/HTTPS massal ke server target. Proyek ini dibuat murni untuk keperluan edukasi dan analisis performa server lokal.  jangan cuma di liat doang cobain lah
 
 ## Fitur
 - **Full URL Support**: Menerima input URL utuh (`-s`) tanpa perlu memisahkan IP, Port, atau Path secara manual.
